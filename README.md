@@ -4,7 +4,13 @@ Single-Cell Profiling of the Breast Microenvironment: Neutrophil Dynamics in BRC
 
 Gaining insight into the mechanisms that trigger breast cancer in BRCA mutation carriers is essential for developing effective prevention strategies. Several studies utilizing single-cell RNA sequencing have shown that individuals with BRCA mutations exhibit altered immune cell proportions within the stromal compartment of their breast tissue. In this thesis, a reanalysis of public RNA-Seq datasets from breast cancer cohorts was performed [1], with the specific aim of identifying neutrophil populations and characterizing their interactions with other cells present in healthy breast tissue. During the single-cell downstream analysis, differential gene expression analysis and pathway enrichment methods were applied to investigate neutrophil associated signatures and their potential contributions within the breast microenvironment. To further validate the findings, key observations were cross-referenced and confirmed through additional differential gene expression and cell-cell communication analyses using the healthy breast single-cell atlas published by Kumar et al. [2], where neutrophil populations were already annotated. Through these analyses, this work provides new insights into the dynamics of neutrophils in the breast tissue microenvironment, particularly in the context of BRCA mutation carriers, and highlights potential avenues for future research in cancer immunology and personalized medicine.
 
-![cell_type (1)](https://github.com/user-attachments/assets/cbadf18f-d7f3-4652-82b9-02dad10f76e9)
+# Cell types
+
+![cell_type (2)](https://github.com/user-attachments/assets/c22c6d41-726b-4437-ba5f-4832db05bdc4)
+
+# Immune cell types
+
+![cell_type_new](https://github.com/user-attachments/assets/d59bed4e-7acb-410c-aea9-02578282e99d)
 
 
 # References
