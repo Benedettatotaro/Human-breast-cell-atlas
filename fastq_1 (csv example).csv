@@ -1,0 +1,10 @@
+[gene-expression],,
+reference,/data/Totaro/FASTQ/refdata-gex-GRCh38-2020-A,
+force-cells,12000,
+include-introns,TRUE,
+create-bam,TRUE,
+,,
+[libraries],,
+fastq_id,fastqs,feature_types
+SLX-19864-20262_SIGAH5--SLX-19864_SIGAH5,/data/Totaro/FASTQ/Donor_1/Stroma enriched - unsorted,Gene Expression
+SLX-19864-20262_SIGAH5--SLX-20262_SIGAH5,/data/Totaro/FASTQ/Donor_1/Stroma enriched - unsorted,Gene Expression
